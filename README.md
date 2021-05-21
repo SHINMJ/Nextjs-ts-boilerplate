@@ -1,4 +1,14 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Frontend Boilerplate
+
+Next.js + Typescript 활용한 React 기반 프론트엔드 기본 설정 Boilerplate.
+해당 프로젝트에 설정된 부분은 [여기를](https://www.notion.so/Frontend-Boilerplate-b4f07b67713243f1bb0050cd35970bc9) 확인!!
+
+### Tech stack
+
+- [Next.js](https://nextjs.org/docs/getting-started)
+- [Typescript](https://www.typescriptlang.org/docs/)
+- [ESLint](https://eslint.org/) + [Prettier](https://prettier.io/) + [airbnb Style Guide](https://github.com/airbnb/javascript)
+- [Jest](https://jestjs.io/docs/next/getting-started) + [testing-library](https://testing-library.com/docs/)
 
 ## Getting Started
 
@@ -26,9 +36,3 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
