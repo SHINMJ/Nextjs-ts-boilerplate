@@ -2,7 +2,7 @@ name: anoter repo CI
 
 on:
  push:
-  branches: [ main ]
+  branches: [ dev ]
 
 
 jobs:
