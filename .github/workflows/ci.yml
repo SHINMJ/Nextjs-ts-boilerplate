@@ -2,7 +2,7 @@ name: anoter repo CI
 
 on:
  push:
-  branches: [ dev ]
+  branches: [ main ]
 
 
 jobs:
@@ -19,7 +19,7 @@ jobs:
         env: 
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
-          source-directory: 'src'
+          source-directory: '.'
           destination-github-username: 'SHINMJ'
           destination-repository-name: 'nextjs-boilerplate-another-repo'
           user-email: gkdlqkek@gmail.com
