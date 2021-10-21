@@ -23,3 +23,4 @@ yarn dev
 
 ### github action 
 [push directory to another repo](https://github.com/marketplace/actions/push-directory-to-another-repository)
+대상이 './' 이면 안됨 -> `.github/workflows/ci.yml` 까지 모두 가져가므로...
